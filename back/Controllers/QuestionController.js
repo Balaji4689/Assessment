@@ -1,5 +1,5 @@
 
-const Question = require("../models/QuestionModel");
+const Question = require('../Models/questionModel')
 
 
 
