@@ -6,7 +6,7 @@ const App = () => {
   const [newVote , setNewVote]= useState(false);
   const [question , setQuestion] = useState("");
 
-  const API = "http://localhost:2000/api";
+  const API = "https://assessment-backend-11ow.onrender.com";
 
   const fetchVotes = async()=>{
     try {
