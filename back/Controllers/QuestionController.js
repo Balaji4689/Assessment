@@ -1,5 +1,6 @@
 
-const Question = require("../models/questionModel");
+const Question = require("../models/QuestionModel");
+
 
 
 
